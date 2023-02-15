@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Login Form</string>
+    <string name="nama">Nama:</string>
+    <string name="nim">NIM:</string>
+    <string name="kelas">Kelas:</string>
+    <string name="email">Email:</string>
+    <string name="jurusan">Jurusan:</string>
+    <string name="hobby">Hobby:</string>
+    <string name="clear">Clear</string>
+    <string name="submit">Submit</string>
+    <string name="save">Save</string>
+    <string name="edit">Edit</string>
+</resources>
